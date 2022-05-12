@@ -18,4 +18,4 @@ The following tools were used in this project:
 
 ## Video ##
 
-https://user-images.githubusercontent.com/89488125/168054658-291373b4-e1e6-4cdc-ab8e-f541a3f72dba.mp4
+![NetflixClone](https://user-images.githubusercontent.com/89488125/168068137-de8c043a-d777-4fae-a123-b3c339f358af.gif)
